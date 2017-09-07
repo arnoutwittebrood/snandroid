@@ -16,7 +16,7 @@
         Arnout Wittebrood
     </author>
 	
-    <preference name="phonegap-version" value="cli-7.0.1" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
     
     <icon src="icon.png" />
    
