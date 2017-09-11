@@ -15,9 +15,9 @@
     <author href="http://www.wittebrood.com" email="arnout@wittebrood.com">
         Arnout Wittebrood
     </author>
-	
-    <preference name="phonegap-version" value="cli-6.5.0" />
-    
+
+    <preference name='phonegap-version' value='cli-7.0.1' />
+       
     <icon src="icon.png" />
    
 </widget>
